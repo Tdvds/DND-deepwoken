@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba1c82f70cad419c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bell types/Crazy Slots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c1d4435ca29612e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bell types/Shard Bow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Sacred Field.md",
+                "file": "Bell types/Jar of Souls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Sacred Field.md",
+                "file": "Bell types/Jar of Souls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Sacred Field.md"
+                "file": "Bell types/Jar of Souls.md"
               }
             }
           }
@@ -171,8 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "596850667b8d8ea0",
+  "active": "cdc0dfadfb8c39a6",
   "lastOpenFiles": [
+    "Bell types/Crazy Slots.md",
+    "Bell types/Sacred Field.md",
     "Bell types/Run it Back.md",
     "Bell types/run it back bell.png",
     "Bell types/Teleport room.md",
@@ -180,8 +206,6 @@
     "run.md",
     "Bell types/Jar of Souls.md",
     "Bell types/Blood Scourge.md",
-    "Bells.md",
-    "Story.md",
-    "Bell types/Marked teleportation.md"
+    "Bells.md"
   ]
 }
