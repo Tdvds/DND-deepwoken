@@ -1,4 +1,4 @@
-![[sacred field bell.png]]
+ ![[sacred field bell.png]]
 
 With the bell of Sacred Feild, you create a circular area of 35 feet, when you and your allies are within this field you will get a random buff rolled by 1D4. the color of your field changes based on the effect.
 
