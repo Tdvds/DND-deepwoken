@@ -45,14 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Payback.md",
+                "file": "Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc0ed123b3ddfa32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enchant gem types/Gem of support.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Payback.md",
+                "file": "Enchant gem types/Gem of support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Payback.md",
+                "file": "Enchant gem types/Gem of support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Payback.md"
+                "file": "Enchant gem types/Gem of support.md"
               }
             }
           }
@@ -179,8 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec4e1e6a8442e573",
+  "active": "cdc0dfadfb8c39a6",
   "lastOpenFiles": [
+    "Story.md",
+    "Bell types/Payback.md",
     "Bell types/dimension travel.md",
     "Bell types/Crazy Slots.md",
     "Bell types/Blood Scourge.md",
@@ -188,8 +202,6 @@
     "Bell types/Bell images/Crazy Slots bell.png",
     "Bell types/portals.md",
     "Bell types/Bell images/run it back bell.png",
-    "Story.md",
-    "Bells.md",
-    "Bell types/Bell images/dimension travel bell.png"
+    "Bells.md"
   ]
 }
