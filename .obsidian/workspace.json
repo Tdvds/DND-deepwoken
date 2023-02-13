@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Windup.md",
+                "file": "Bell types/Crazy Slots.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Enchant gem types/Gem of support.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "926438db87f947ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enchant gem types/gem of power.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,15 +173,15 @@
   },
   "active": "bc0ed123b3ddfa32",
   "lastOpenFiles": [
-    "Bell types/Windup.md",
+    "Enchant gem types/gem of power.md",
     "Enchant gem types/Gem of support.md",
+    "Bell types/Crazy Slots.md",
+    "Bell types/Blood Scourge.md",
+    "Bell types/Windup.md",
     "Bell types/Sacred Field.md",
     "Bell types/Run it Back.md",
     "Story.md",
     "Bell types/Resurrection.md",
-    "Bell types/Bell images/Blood Scourge Bell.png",
-    "Bell types/Payback.md",
-    "Bell types/dimension travel.md",
-    "Bell types/Crazy Slots.md"
+    "Bell types/Bell images/Blood Scourge Bell.png"
   ]
 }
