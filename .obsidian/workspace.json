@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Jar of Souls.md",
+                "file": "Bell types/Shard Bow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32bd3cf1fe7a8496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bell types/Resurrection.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Jar of Souls.md",
+                "file": "Bell types/Resurrection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Jar of Souls.md",
+                "file": "Bell types/Resurrection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Jar of Souls.md"
+                "file": "Bell types/Resurrection.md"
               }
             }
           }
@@ -197,15 +209,15 @@
   },
   "active": "cdc0dfadfb8c39a6",
   "lastOpenFiles": [
+    "Bell types/Shard Bow.md",
+    "Bells.md",
+    "Bell types/Jar of Souls.md",
     "Bell types/Crazy Slots.md",
     "Bell types/Sacred Field.md",
     "Bell types/Run it Back.md",
     "Bell types/run it back bell.png",
     "Bell types/Teleport room.md",
     "Bell types/Windup.md",
-    "run.md",
-    "Bell types/Jar of Souls.md",
-    "Bell types/Blood Scourge.md",
-    "Bells.md"
+    "run.md"
   ]
 }
