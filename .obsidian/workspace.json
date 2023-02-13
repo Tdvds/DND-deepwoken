@@ -13,39 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be67670eecd37d94",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Bell types/Bell images/Blood Scourge Bell.png"
-              }
-            }
-          },
-          {
-            "id": "0bf40a37f22d9612",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Bell types/Bell images/Crazy Slots bell.png"
-              }
-            }
-          },
-          {
-            "id": "ec4e1e6a8442e573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story.md",
+                "file": "Enchant gem types/Gem of support.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enchant gem types/Gem of support.md",
+                "file": "Bell types/Run it Back.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdc0dfadfb8c39a6",
+  "active": "e428e5a638128870",
   "lastOpenFiles": [
+    "Bell types/Run it Back.md",
+    "Enchant gem types/Gem of support.md",
     "Story.md",
+    "Bell types/Resurrection.md",
+    "Bell types/Bell images/Blood Scourge Bell.png",
     "Bell types/Payback.md",
     "Bell types/dimension travel.md",
     "Bell types/Crazy Slots.md",
     "Bell types/Blood Scourge.md",
-    "Bell types/Bell images/Blood Scourge Bell.png",
-    "Bell types/Bell images/Crazy Slots bell.png",
-    "Bell types/portals.md",
-    "Bell types/Bell images/run it back bell.png",
-    "Bells.md"
+    "Bell types/Bell images/Crazy Slots bell.png"
   ]
 }
