@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story.md",
+                "file": "Bell types/Jar of Souls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story.md",
+                "file": "Bell types/Jar of Souls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story.md",
+                "file": "Bell types/Jar of Souls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story.md"
+                "file": "Bell types/Jar of Souls.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "9c9fb627d25e5db7",
   "lastOpenFiles": [
-    "Story.md",
-    "Bell types/Windup.md",
-    "Bell types/Payback.md",
-    "Bell types/Teleport room.md",
-    "Bell types/Jar of Souls.md",
-    "Bell types/Blood Scourge.md",
     "Bells.md",
+    "Story.md",
+    "Bell types/Jar of Souls.md",
     "Bell types/Marked teleportation.md",
+    "Bell types/Blood Scourge.md",
+    "Bell types/Payback.md",
+    "Bell types/Windup.md",
+    "Bell types/Teleport room.md",
     "Bell types/Teleportation room bell.png",
     "Bell types/Blood Scourge Bell.png"
   ]
