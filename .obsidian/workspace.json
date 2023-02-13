@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Crazy Slots.md",
+                "file": "Bell types/Windup.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d707cde6215b995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enchant gem types/Gem of mobility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enchant gem types/Gem of support.md",
+                "file": "Enchant gem types/Gem of mobility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enchant gem types/Gem of support.md",
+                "file": "Enchant gem types/Gem of mobility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enchant gem types/Gem of support.md"
+                "file": "Enchant gem types/Gem of mobility.md"
               }
             }
           }
@@ -171,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc0ed123b3ddfa32",
+  "active": "cdc0dfadfb8c39a6",
   "lastOpenFiles": [
     "Enchant gem types/gem of power.md",
-    "Enchant gem types/Gem of support.md",
-    "Bell types/Crazy Slots.md",
-    "Bell types/Blood Scourge.md",
     "Bell types/Windup.md",
+    "Bell types/Shard Bow.md",
+    "Enchant gem types/Gem of support.md",
     "Bell types/Sacred Field.md",
     "Bell types/Run it Back.md",
-    "Story.md",
-    "Bell types/Resurrection.md",
-    "Bell types/Bell images/Blood Scourge Bell.png"
+    "Bell types/Payback.md",
+    "Bell types/Jar of Souls.md",
+    "Bell types/Crazy Slots.md",
+    "Bell types/Blood Scourge.md"
   ]
 }

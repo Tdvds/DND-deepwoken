@@ -20,7 +20,7 @@ If you equip the gem of support on your Bell, your bell will turn into a support
 	2. blue: resistance to psychic
 	3. green: increase range by 5 feet
 	4. yellow:  +3 damage
-5. shard bow: the hits now heal, but heal half the roll.
-6. windup: stored damage can now be given to one other player.
+12. shard bow: the hits now heal, but heal half the roll.
+13. windup: stored damage can now be given to one other player.
 
 when used on support spells, the effect increases by 25%
