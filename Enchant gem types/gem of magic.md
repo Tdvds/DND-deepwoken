@@ -2,8 +2,8 @@
 
 With the gem of magic connected to your bell, your bell will turn into a magic type bell
 
-1. bell of portals:
-2. blood scourge: 
+1. bell of portals: make 3 more portals you can use to travel with your companions
+2. blood scourge: hits +2 knocked enemies increasing your 
 3. crazy slots: 
 4. dimension travel:
 5. gravity field: 
