@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Payback.md",
+                "file": "Enchant gem types/Gem of support.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Payback.md",
+                "file": "Enchant gem types/Gem of support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Payback.md",
+                "file": "Enchant gem types/Gem of support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Payback.md"
+                "file": "Enchant gem types/Gem of support.md"
               }
             }
           }
@@ -172,15 +172,15 @@
   },
   "active": "e428e5a638128870",
   "lastOpenFiles": [
-    "Bell types/Marked teleportation.md",
+    "Enchant gem types/gem of power.md",
+    "Enchant gem types/Gem of mobility.md",
     "Enchant gem types/gem of magic.md",
+    "Bell types/Payback.md",
+    "Bell types/Marked teleportation.md",
     "Bell types/Gravity Field.md",
     "Bell types/dimension travel.md",
     "Bell types/Windup.md",
-    "Enchant gem types/Gem of mobility.md",
-    "Enchant gem types/gem of power.md",
     "Story.md",
-    "Enchant Gem Types.md",
-    "Bell types/Crazy Slots.md"
+    "Enchant Gem Types.md"
   ]
 }
