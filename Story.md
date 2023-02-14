@@ -2,3 +2,7 @@ In the world of vrocetia there is a tale, the tale of the depths, it seeks out t
 
 
 I
+
+
+
+[[Enchant Gem Types]]
