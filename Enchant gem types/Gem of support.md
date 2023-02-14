@@ -1,4 +1,4 @@
-![[Gem of support.png]]
+r![[Gem of support.png]]
 
 If you equip the gem of support on your Bell, your bell will turn into a support bell
 
