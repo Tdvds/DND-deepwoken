@@ -9,4 +9,4 @@ range: 20/60 feet.
 weight: 2lbs
 Reload
 
-[]
+[ammunition types](https://triplecrit.fandom.com/wiki/Sky_Islands_Ammunition)
