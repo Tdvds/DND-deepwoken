@@ -13,37 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enchant gem types/Gem of support.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d707cde6215b995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enchant gem types/Gem of mobility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e42f5d43bb0931e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Enchant gem types/gem of magic.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb95d839ed8b1382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "custom weapons/Flintlock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enchant gem types/Gem of support.md",
+                "file": "custom weapons/Flintlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enchant gem types/Gem of support.md",
+                "file": "custom weapons/Flintlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enchant gem types/Gem of support.md"
+                "file": "custom weapons/Flintlock.md"
               }
             }
           }
@@ -170,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e428e5a638128870",
+  "active": "cdc0dfadfb8c39a6",
   "lastOpenFiles": [
+    "Enchant gem types/gem of magic.md",
+    "Bell types/Windup.md",
+    "Enchant gem types/Gem of support.md",
     "Enchant gem types/gem of power.md",
     "Enchant gem types/Gem of mobility.md",
-    "Enchant gem types/gem of magic.md",
-    "Bell types/Payback.md",
-    "Bell types/Marked teleportation.md",
-    "Bell types/Gravity Field.md",
-    "Bell types/dimension travel.md",
-    "Bell types/Windup.md",
-    "Story.md",
-    "Enchant Gem Types.md"
+    "Bell types/Shard Bow.md",
+    "Bell types/Sacred Field.md",
+    "Bell types/Run it Back.md",
+    "Bell types/Resurrection.md",
+    "Bell types/Payback.md"
   ]
 }

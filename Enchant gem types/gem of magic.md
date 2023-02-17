@@ -13,15 +13,17 @@ With the gem of magic connected to your bell, your bell will turn into a magic t
 5. gravity field: spell now ends after 6 turns
 6. jar of souls: for every soul you get you get +1
 7. marked teleportation: your charges are refreshed after 10 minutes
-8. payback: 
-9. resurrection: 
-10. run it back: 
+8. payback: reflected damage is now magical
+9. resurrection: all types now do +1 temp hp
+10. run it back: run it back effect lasts longer (+1 turn)
 11. sacred field: 
-	1. red: 
-	2. blue: 
-	3. green: 
-	5. yellow:
-12. shard bow: 
-	1. version 1:
-	2. version 2: 
-13. windup:
+	1. red: fire resistance
+	2. blue: ice resistance
+	3. green: poison resistance
+	4. yellow: lightning resistance
+12. shard bow: the arrows have a +5 feet bigger radius of explosion
+13. windup: the windup now becomes a different elemental attack based on a D4 roll
+	1. 1: acid
+	2. cold
+	3. fire
+	4. lightning
