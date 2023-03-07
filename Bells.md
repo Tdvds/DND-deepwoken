@@ -19,6 +19,8 @@ bell types:
 [[Shard Bow]]
 [[portals]]
 [[bubble chaos]]
+[[Telepathy link]]
+
 
 
 
