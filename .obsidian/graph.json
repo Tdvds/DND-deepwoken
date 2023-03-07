@@ -8,24 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "offensive",
+      "query": "Bells",
       "color": {
         "a": 1,
-        "rgb": 16712978
-      }
-    },
-    {
-      "query": "support",
-      "color": {
-        "a": 1,
-        "rgb": 65331
+        "rgb": 11382588
       }
     },
     {
       "query": "mobility",
       "color": {
         "a": 1,
-        "rgb": 13172480
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "magic",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "offensive",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "defensive",
+      "color": {
+        "a": 1,
+        "rgb": 2577245
+      }
+    },
+    {
+      "query": "support",
+      "color": {
+        "a": 1,
+        "rgb": 65280
       }
     }
   ],
@@ -39,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7185494014581425,
+  "scale": 0.7185494014581443,
   "close": false
 }

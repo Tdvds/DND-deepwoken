@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Marked teleportation.md",
+                "file": "Bells.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,15 +171,15 @@
   },
   "active": "2d707cde6215b995",
   "lastOpenFiles": [
+    "weapons/Flintlock.md",
+    "Bells.md",
+    "Bell types/Payback.md",
     "Bell types/Marked teleportation.md",
     "Bell types/Jar of Souls.md",
     "Bell types/Gravity Field.md",
     "Bell types/portals.md",
     "Bell types/Resurrection.md",
     "Bell types/Blood Scourge.md",
-    "Enchant gem types/Gem of mobility.md",
-    "Bell types/removing bubbles.md",
-    "weapons/Flintlock.md",
-    "Enchant gem types/Gem of support.md"
+    "Enchant gem types/Gem of mobility.md"
   ]
 }

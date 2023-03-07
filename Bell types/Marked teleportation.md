@@ -4,4 +4,3 @@ With the Bell of Marked Teleportation, you can mark up to 4 locations you are at
 
 
 bell type: mobility
-a
