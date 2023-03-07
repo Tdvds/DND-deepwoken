@@ -1,0 +1,2 @@
+![[removing bubbles.png]]
+
