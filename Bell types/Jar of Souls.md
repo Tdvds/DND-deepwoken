@@ -20,4 +20,7 @@ under 10 feet feet humanoids: 2 souls
 above 15 feet humanoids: 3 souls
 
 
+bell type: offensive
+
+
 
