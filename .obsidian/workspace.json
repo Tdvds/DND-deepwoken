@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weapons/Flintlock.md",
+                "file": "Bell types/Crazy Slots.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weapons/Flintlock.md",
+                "file": "Bell types/Crazy Slots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weapons/Flintlock.md",
+                "file": "Bell types/Crazy Slots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weapons/Flintlock.md"
+                "file": "Bell types/Crazy Slots.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "cb95d839ed8b1382",
   "lastOpenFiles": [
+    "weapons/Flintlock.md",
     "Enchant gem types/gem of magic.md",
     "Bell types/Windup.md",
     "Enchant gem types/Gem of support.md",
