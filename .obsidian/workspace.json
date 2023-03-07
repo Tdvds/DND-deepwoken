@@ -11,10 +11,11 @@
             "id": "e428e5a638128870",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-
-                "file": "Bell types/Bell images/dimension travel bell.png"
+                "file": "Bell types/Resurrection.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -34,30 +35,11 @@
             "id": "0e42f5d43bb0931e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-
-
-                "file": "Enchant gem types/gem of magic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb95d839ed8b1382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weapons/Flintlock.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Bell images/dimension travel bell.png",
+                "file": "Bell types/Resurrection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Bell images/dimension travel bell.png",
+                "file": "Bell types/Resurrection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Bell images/dimension travel bell.png"
-
-
+                "file": "Bell types/Resurrection.md"
               }
             }
           }
@@ -186,27 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdc0dfadfb8c39a6",
+  "active": "e428e5a638128870",
   "lastOpenFiles": [
+    "weapons/Flintlock.md",
     "Enchant gem types/Gem of support.md",
     "Enchant gem types/gem of power.md",
-    "Enchant gem types/Gem of mobility.md",
     "Enchant gem types/gem of magic.md",
-    "Bell types/Payback.md",
-    "Bell types/Marked teleportation.md",
-    "Bell types/Gravity Field.md",
-    "Bell types/dimension travel.md",
-    "Bell types/Windup.md",
-    "Story.md",
-    "Enchant gem types/gem of magic.md",
-    "Bell types/Windup.md",
-    "Enchant gem types/Gem of support.md",
-    "Enchant gem types/gem of power.md",
     "Enchant gem types/Gem of mobility.md",
-    "Bell types/Shard Bow.md",
-    "Bell types/Sacred Field.md",
-    "Bell types/Run it Back.md",
-    "Bell types/Resurrection.md",
-    "Bell types/Payback.md"
+    "Enchant gem types/Gem images/gem of power.png",
+    "Enchant gem types/Gem images/Gem of mobility.png",
+    "Enchant gem types/Gem images/Gem of magic.png",
+    "Enchant gem types/Gem images/gem of absolute.png",
+    "Bell types/Shard Bow.md"
   ]
 }
