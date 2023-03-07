@@ -17,3 +17,5 @@ any weapon type you carry (spear, sword, longsword, greatsword, guns, staffs, da
 10. greataxe
 
 you can use this bell twice per battle
+
+bell type: offensive

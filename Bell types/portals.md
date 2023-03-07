@@ -5,3 +5,5 @@ With the bell of portals, you open a gate you and 1 other person can enter, you 
 as a bonus action you can go into the ground, if your not with someone, and jump out of the gate from underneath a being to deal 2D6 Damage.
 
 this bell has 5 charges, and recharges at the end of battle
+
+bell type: mobility

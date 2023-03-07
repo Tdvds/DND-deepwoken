@@ -8,3 +8,6 @@ with the bell of resurrection, you can ofcourse resurrection someone, you tag a 
 
 this bell can only be used once per 3 long rests
 
+
+
+bell type: support
