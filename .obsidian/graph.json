@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Bells",
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 65280
       }
+    },
+    {
+      "query": "all-round",
+      "color": {
+        "a": 1,
+        "rgb": 8005536
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 5.66666666666667,
   "linkStrength": 1,
   "linkDistance": 386,
-  "scale": 0.46884354564393066,
+  "scale": 0.6941003977245525,
   "close": true
 }

@@ -12,3 +12,6 @@ With the bell of bubble chaos, you get the ability to summon bubbles, which can 
 | go beyond       | spinning explosion   | 4d4    |
 
 go beyond is its ultimate ability, losing all charges but creating a type of fireball attack that spins and makes that area of 6 feet a damaging terrain for two turns, it is thrown
+
+
+bell type: all-round
