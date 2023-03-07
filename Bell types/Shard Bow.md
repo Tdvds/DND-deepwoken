@@ -8,3 +8,6 @@ there are two uses for this bow,
 
 
 you can use this bell once per short rest
+
+
+bell type: offensive

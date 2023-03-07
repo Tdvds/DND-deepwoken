@@ -11,6 +11,7 @@ you can use this bell once per short rest
 4. magic damage increase of 5 damage: **color: yellow**
 
 
+bell type: defensive
 
 
 
