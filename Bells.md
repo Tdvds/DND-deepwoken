@@ -17,6 +17,9 @@ bell types:
 [[Run it Back]]
 [[Sacred Field]]
 [[Shard Bow]]
+[[portals]]
+[[bubble chaos]]
+
 
 
 info type: Bells

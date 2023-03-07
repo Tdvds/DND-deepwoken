@@ -5,3 +5,4 @@ when the Bell of Windup is used, you Windup an attack storing the damage of said
 it has 5 charges and recharges per short rest
 
 bell type: offensive
+
