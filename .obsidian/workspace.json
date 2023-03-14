@@ -50,9 +50,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e7728bcc06963ea3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bell types/Crazy Slots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bell types/Crazy Slots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bell types/Crazy Slots.md"
+              }
             }
           }
         ]
@@ -175,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bae1f5f5fd5e2bc",
+  "active": "cb95d839ed8b1382",
   "lastOpenFiles": [
     "Bells.md",
     "Bell types/Telepathy link.md",
