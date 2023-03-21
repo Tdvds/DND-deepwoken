@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Crazy Slots.md",
+                "file": "Bell types/Telepathy link.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Crazy Slots.md",
+                "file": "Bell types/Telepathy link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Crazy Slots.md",
+                "file": "Bell types/Telepathy link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Crazy Slots.md"
+                "file": "Bell types/Telepathy link.md"
               }
             }
           }
@@ -191,9 +191,9 @@
   },
   "active": "cb95d839ed8b1382",
   "lastOpenFiles": [
+    "Bell types/Crazy Slots.md",
     "Bells.md",
     "Bell types/Telepathy link.md",
-    "Bell types/Crazy Slots.md",
     "weapons/Flintlock.md",
     "Enchant gem types/gem of magic.md",
     "Bell types/Windup.md",
