@@ -21,3 +21,5 @@ with the gem of mobility, your bell will turn into a mobility bell
 	1. version 1: shoot an explosion behind you that doesnt deal damage, and propel yourself forward for 30 feet
 	2. version 2: shoot 3 explosions that deal no damage that you can change directions with, but still only being up to 30 feet, arrow 1 10 feet, arrow 2 10 feet, arrow 3 10 feet
 14. windup: you wind up dashes in your bell, making you able to use them out of combat to travel
+
+15. bell of telepathy: with your voice you are now being able to control the target for around 20 feet, you can use all of its

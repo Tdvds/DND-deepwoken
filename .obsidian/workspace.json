@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Telepathy link.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd3abbc546a1294f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bells.md",
+                "file": "Enchant gem types/Gem of mobility.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Telepathy link.md",
+                "file": "Enchant gem types/Gem of mobility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Telepathy link.md",
+                "file": "Enchant gem types/Gem of mobility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Telepathy link.md"
+                "file": "Enchant gem types/Gem of mobility.md"
               }
             }
           }
@@ -161,20 +149,23 @@
   },
   "active": "cb95d839ed8b1382",
   "lastOpenFiles": [
-    "Bell types/Bell images/telepathy bell.png",
-    "Bell types/Bell images/bell of telepathy.png",
-    "Bell types/Crazy Slots.md",
-    "Bells.md",
-    "Bell types/Telepathy link.md",
-    "weapons/Flintlock.md",
-    "Enchant gem types/gem of magic.md",
     "Bell types/Windup.md",
-    "Enchant gem types/Gem of support.md",
-    "Enchant gem types/gem of power.md",
     "Enchant gem types/Gem of mobility.md",
     "Bell types/Shard Bow.md",
-    "Bell types/Sacred Field.md",
     "Bell types/Run it Back.md",
+    "Bell types/Marked teleportation.md",
+    "Bell types/Crazy Slots.md",
+    "Bell types/Blood Scourge.md",
+    "Bell types/Telepathy link.md",
+    "Bell types/Jar of Souls.md",
+    "Bells.md",
+    "Bell types/Bell images/telepathy bell.png",
+    "Bell types/Bell images/bell of telepathy.png",
+    "weapons/Flintlock.md",
+    "Enchant gem types/gem of magic.md",
+    "Enchant gem types/Gem of support.md",
+    "Enchant gem types/gem of power.md",
+    "Bell types/Sacred Field.md",
     "Bell types/Resurrection.md",
     "Bell types/Payback.md"
   ]
