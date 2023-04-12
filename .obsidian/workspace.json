@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e428e5a638128870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enchant gem types/gem of magic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb95d839ed8b1382",
             "type": "leaf",
             "state": {
@@ -42,27 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9bae1f5f5fd5e2bc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e7728bcc06963ea3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
