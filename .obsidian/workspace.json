@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "need to make notes.md",
+                "file": "custom classes/red rose mage.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "need to make notes.md",
+                "file": "custom classes/red rose mage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "need to make notes.md",
+                "file": "custom classes/red rose mage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "need to make notes.md"
+                "file": "custom classes/red rose mage.md"
               }
             }
           }
@@ -170,27 +170,32 @@
   },
   "active": "a4dc2c08456e1611",
   "lastOpenFiles": [
-    "custom classes/red rose mage.md",
-    "need to make notes.md",
-    "Bell types/Run it Back.md",
-    "custom classes",
-    "Bell types/Telepathy link.md",
+    "Enchant gem types/Gem images/gem of absolute.png",
+    "Enchant gem types/gem of magic.md",
     "Enchant gem types/Gem of mobility.md",
+    "Enchant gem types/gem of power.md",
+    "Enchant gem types/Gem of support.md",
+    "Bell types/Payback.md",
     "Bell types/Windup.md",
+    "Bell types/Telepathy link.md",
     "Bell types/Shard Bow.md",
+    "Bell types/Run it Back.md",
+    "Bell types/Sacred Field.md",
+    "Bell types/Resurrection.md",
+    "Bell types/portals.md",
     "Bell types/Marked teleportation.md",
+    "Bell types/Jar of Souls.md",
+    "Bell types/dimension travel.md",
     "Bell types/Crazy Slots.md",
     "Bell types/Blood Scourge.md",
-    "Bell types/Jar of Souls.md",
+    "Bell types/bubble chaos.md",
+    "Bell types/Gravity Field.md",
+    "need to make notes.md",
+    "custom classes/red rose mage.md",
+    "custom classes",
     "Bells.md",
     "Bell types/Bell images/telepathy bell.png",
     "Bell types/Bell images/bell of telepathy.png",
-    "weapons/Flintlock.md",
-    "Enchant gem types/gem of magic.md",
-    "Enchant gem types/Gem of support.md",
-    "Enchant gem types/gem of power.md",
-    "Bell types/Sacred Field.md",
-    "Bell types/Resurrection.md",
-    "Bell types/Payback.md"
+    "weapons/Flintlock.md"
   ]
 }
