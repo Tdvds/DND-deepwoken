@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enchant gem types/Gem of mobility.md",
+                "file": "Bell types/Telepathy link.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enchant gem types/Gem of mobility.md",
+                "file": "Bell types/Telepathy link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enchant gem types/Gem of mobility.md",
+                "file": "Bell types/Telepathy link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enchant gem types/Gem of mobility.md"
+                "file": "Bell types/Telepathy link.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "cb95d839ed8b1382",
   "lastOpenFiles": [
-    "Bell types/Windup.md",
     "Enchant gem types/Gem of mobility.md",
+    "Bell types/Windup.md",
     "Bell types/Shard Bow.md",
     "Bell types/Run it Back.md",
     "Bell types/Marked teleportation.md",
