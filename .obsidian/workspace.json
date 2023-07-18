@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "custom classes/red rose mage.md",
+                "file": "need to make notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "custom classes/red rose mage.md",
+                "file": "need to make notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "custom classes/red rose mage.md",
+                "file": "need to make notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "custom classes/red rose mage.md"
+                "file": "need to make notes.md"
               }
             }
           }
@@ -170,6 +170,7 @@
   },
   "active": "a4dc2c08456e1611",
   "lastOpenFiles": [
+    "custom classes/red rose mage.md",
     "Enchant gem types/Gem images/gem of absolute.png",
     "Enchant gem types/gem of magic.md",
     "Enchant gem types/Gem of mobility.md",
@@ -191,7 +192,6 @@
     "Bell types/bubble chaos.md",
     "Bell types/Gravity Field.md",
     "need to make notes.md",
-    "custom classes/red rose mage.md",
     "custom classes",
     "Bells.md",
     "Bell types/Bell images/telepathy bell.png",
