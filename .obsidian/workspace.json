@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Blood Scourge.md",
+                "file": "Bell types/portals.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Blood Scourge.md",
+                "file": "Bell types/portals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Blood Scourge.md",
+                "file": "Bell types/portals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Blood Scourge.md"
+                "file": "Bell types/portals.md"
               }
             }
           }
@@ -170,14 +170,14 @@
   },
   "active": "a4dc2c08456e1611",
   "lastOpenFiles": [
+    "Bell types/Marked teleportation.md",
+    "Bell types/dimension travel.md",
+    "Bell types/Blood Scourge.md",
     "Bell types/Payback.md",
     "Bell types/Jar of Souls.md",
     "Bell types/Crazy Slots.md",
-    "Bell types/Blood Scourge.md",
     "Bell types/Resurrection.md",
-    "Bell types/dimension travel.md",
     "Bell types/portals.md",
-    "Bell types/Marked teleportation.md",
     "Bell types/Gravity Field.md",
     "Bell types/bubble chaos.md",
     "Enchant gem types/gem of power.md",
