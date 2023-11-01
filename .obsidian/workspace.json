@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Resurrection.md",
+                "file": "Bell types/Blood Scourge.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Resurrection.md",
+                "file": "Bell types/Blood Scourge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Resurrection.md",
+                "file": "Bell types/Blood Scourge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Resurrection.md"
+                "file": "Bell types/Blood Scourge.md"
               }
             }
           }
@@ -170,15 +170,16 @@
   },
   "active": "a4dc2c08456e1611",
   "lastOpenFiles": [
+    "Bell types/Payback.md",
+    "Bell types/Jar of Souls.md",
+    "Bell types/Crazy Slots.md",
+    "Bell types/Blood Scourge.md",
+    "Bell types/Resurrection.md",
     "Bell types/dimension travel.md",
     "Bell types/portals.md",
-    "Bell types/Payback.md",
     "Bell types/Marked teleportation.md",
-    "Bell types/Jar of Souls.md",
     "Bell types/Gravity Field.md",
-    "Bell types/Crazy Slots.md",
     "Bell types/bubble chaos.md",
-    "Bell types/Blood Scourge.md",
     "Enchant gem types/gem of power.md",
     "Enchant gem types/gem of magic.md",
     "Enchant gem types/Gem of mobility.md",
@@ -191,7 +192,6 @@
     "Bell types/Shard Bow.md",
     "Bell types/Run it Back.md",
     "Bell types/Sacred Field.md",
-    "Bell types/Resurrection.md",
     "custom classes",
     "Bells.md",
     "Bell types/Bell images/telepathy bell.png",
