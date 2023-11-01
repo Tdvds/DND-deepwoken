@@ -1,6 +1,6 @@
 ![[Ressurection Bell.png]]
 
-with the bell of resurrection, you can ofcourse resurrection someone, you tag a being isnt undead and you can see,or you can tag yourself, then there will be three options for you to choose
+with the bell of resurrection, you can ofcourse resurrect someone, you tag a being isnt undead and you can see,or you can tag yourself, then there will be three options for you to choose
 
 1. normal resurrection: full hp, 20 feet range, only if target hits 0 hp
 2. teleport resurrection: half hp, 40 feet range, teleports target next to you, only if target hits 0 hp
