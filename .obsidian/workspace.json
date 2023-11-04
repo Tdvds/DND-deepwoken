@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Telepathy link.md",
+                "file": "Bell types/portals.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Telepathy link.md",
+                "file": "Bell types/portals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Telepathy link.md",
+                "file": "Bell types/portals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Telepathy link.md"
+                "file": "Bell types/portals.md"
               }
             }
           }
@@ -170,8 +170,12 @@
   },
   "active": "a4dc2c08456e1611",
   "lastOpenFiles": [
-    "Bell types/Run it Back.md",
     "Bell types/Resurrection.md",
+    "Bell types/Telepathy link.md",
+    "Bell types/Sacred Field.md",
+    "Bell types/Shard Bow.md",
+    "Bell types/Windup.md",
+    "Bell types/Run it Back.md",
     "Bell types/portals.md",
     "Bell types/Marked teleportation.md",
     "Bell types/dimension travel.md",
@@ -188,10 +192,6 @@
     "custom classes/red rose mage.md",
     "Enchant gem types/Gem images/gem of absolute.png",
     "Enchant gem types/Gem of support.md",
-    "Bell types/Windup.md",
-    "Bell types/Telepathy link.md",
-    "Bell types/Shard Bow.md",
-    "Bell types/Sacred Field.md",
     "custom classes",
     "Bells.md",
     "Bell types/Bell images/telepathy bell.png",
