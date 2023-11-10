@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "custom classes/red rose mage.md",
+                "file": "Bell types/Shard Bow.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32f78e7f7f8ab073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enchant gem types/gem of power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enchant gem types/Gem of mobility.md",
+                "file": "Bell types/Shard Bow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enchant gem types/Gem of mobility.md",
+                "file": "Bell types/Shard Bow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enchant gem types/Gem of mobility.md"
+                "file": "Bell types/Shard Bow.md"
               }
             }
           }
@@ -168,8 +179,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4dc2c08456e1611",
+  "active": "cb95d839ed8b1382",
   "lastOpenFiles": [
+    "custom classes/red rose mage.md",
     "Enchant gem types/gem of power.md",
     "Enchant gem types/Gem of mobility.md",
     "Enchant gem types/Gem images/Gem of mobility.png",
@@ -191,7 +203,6 @@
     "Bell types/Gravity Field.md",
     "Bell types/bubble chaos.md",
     "need to make notes.md",
-    "custom classes/red rose mage.md",
     "Enchant gem types/Gem images/gem of absolute.png",
     "custom classes",
     "Bells.md",
