@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/portals.md",
+                "file": "Bell types/Crazy Slots.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/portals.md",
+                "file": "Bell types/Crazy Slots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/portals.md",
+                "file": "Bell types/Crazy Slots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/portals.md"
+                "file": "Bell types/Crazy Slots.md"
               }
             }
           }
@@ -170,13 +170,13 @@
   },
   "active": "a4dc2c08456e1611",
   "lastOpenFiles": [
+    "Bell types/portals.md",
     "Bell types/Shard Bow.md",
     "Enchant gem types/gem of power.md",
     "Enchant gem types/Gem of mobility.md",
     "Enchant gem types/Gem images/Gem of mobility.png",
     "Bell types/Payback.md",
     "Bell types/Crazy Slots.md",
-    "Bell types/portals.md",
     "Bell types/Resurrection.md",
     "Bell types/Telepathy link.md",
     "Bell types/Sacred Field.md",
