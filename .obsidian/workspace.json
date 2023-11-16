@@ -11,11 +11,9 @@
             "id": "cb95d839ed8b1382",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Enchant gem types/gem of power.md",
-                "mode": "source",
-                "source": false
+                "file": "Bell types/Bell images/Blood Scourge Bell.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enchant gem types/gem of power.md",
+                "file": "Bell types/Bell images/Blood Scourge Bell.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enchant gem types/gem of power.md",
+                "file": "Bell types/Bell images/Blood Scourge Bell.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enchant gem types/gem of power.md"
+                "file": "Bell types/Bell images/Blood Scourge Bell.png"
               }
             }
           }
@@ -157,10 +155,13 @@
   },
   "active": "cb95d839ed8b1382",
   "lastOpenFiles": [
+    "Waterbear kingdom.md",
+    "Maps/Waterbearkingdom.jpg",
+    "Maps",
+    "Enchant gem types/gem of power.md",
     "Enchant gem types/Gem of mobility.md",
     "Enchant gem types/Gem of support.md",
     "Enchant gem types/gem of magic.md",
-    "Enchant gem types/gem of power.md",
     "Bell types/Shard Bow.md",
     "Bell types/portals.md",
     "Bell types/Blood Scourge.md",
