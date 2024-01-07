@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell types/Blood Scourge.md",
+                "file": "Bell types/Resurrection.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bell types/Blood Scourge.md",
+                "file": "Bell types/Resurrection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bell types/Blood Scourge.md",
+                "file": "Bell types/Resurrection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bell types/Blood Scourge.md"
+                "file": "Bell types/Resurrection.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "cb95d839ed8b1382",
   "lastOpenFiles": [
+    "Bell types/Blood Scourge.md",
     "Bell types/portals.md",
     "Enchant gem types/Gem of mobility.md",
     "Enchant gem types/gem of power.md",
@@ -174,7 +175,6 @@
     "Enchant gem types/Gem of support.md",
     "Enchant gem types/gem of magic.md",
     "Bell types/Shard Bow.md",
-    "Bell types/Blood Scourge.md",
     "Bell types/Bell images/Blood Scourge Bell.png",
     "Bell types/Bell images/Crazy Slots bell.png",
     "Bell types/Bell images/bubble bell.png",
