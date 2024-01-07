@@ -11,8 +11,12 @@
             "id": "cb95d839ed8b1382",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Waterbear kingdom.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Waterbear kingdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Waterbear kingdom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Waterbear kingdom.md"
+              }
             }
           }
         ]
@@ -149,6 +157,9 @@
   },
   "active": "cb95d839ed8b1382",
   "lastOpenFiles": [
+    "Story.md",
+    "need to make notes.md",
+    "Enchant Gem Types.md",
     "Maps/waterbearkingdom.png",
     "Maps/Waterbearkingdom.jpg",
     "Waterbear kingdom.md",
@@ -177,7 +188,6 @@
     "Bell types/Jar of Souls.md",
     "Bell types/Gravity Field.md",
     "Bell types/bubble chaos.md",
-    "need to make notes.md",
     "Enchant gem types/Gem images/gem of absolute.png",
     "custom classes",
     "Bells.md",
